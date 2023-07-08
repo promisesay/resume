@@ -1,6 +1,6 @@
 import pathlib
 
-FILE = '../../pythonProject/projects_tempts/differnet/webs/data.txt'
+FILE = 'data.txt'
 
 
 def reader(filepath=FILE):

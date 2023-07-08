@@ -1,7 +1,7 @@
 from doread import *
 import streamlit as st
 
-path = r"C:\Users\Navid\PycharmProjects\pythonProject\projects_tempts\differnet\webs\web_data"
+path = r"C:\Users\Navid\PycharmProjects\web_develpment\web_data.txt"
 lest = reader(path)
 
 
