@@ -2,7 +2,7 @@ from doread import *
 import streamlit as st
 
 path = r"C:\Users\Navid\PycharmProjects\web_develpment\web_data.txt"
-lest = reader(path)
+lest = reader()
 
 
 def new_item():
